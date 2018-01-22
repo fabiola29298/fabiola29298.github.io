@@ -14,6 +14,17 @@ html{
 body{
 	font-family: 'Roboto', 'sans-serif';
 }
+.parrafo{ 
+width: 100%;
+	overflow: hidden;
+	height:200%;
+	background: url(../images/bgTop1.jpg) center center no-repeat;
+	/*background:url(../images/line2.png) center center no-repeat;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+} 
 .headerLine{
 	position: relative;
 	width: 100%;
